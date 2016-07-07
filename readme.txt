@@ -1,1 +1,1 @@
-这是使用git系统的一个测试。
+This is a test file of git system.
